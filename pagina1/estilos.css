@@ -142,7 +142,7 @@ section {
 }
 .avatar-section {
     flex: 0 0 200px;
-    width: 200px;
+    width: 100%;
     text-align: center;
     margin: 20px;
 }
