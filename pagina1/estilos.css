@@ -195,3 +195,32 @@ a:hover {
 .btn-download:hover {
     background-color: #1abc9c;
 }
+
+.to-top-btn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #16a085;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.to-top-btn:hover {
+    background-color: #1abc9c;
+}
+
+.text-section ul li img {
+    text-align: center;
+    width: 30px;
+    max-width: 100%;
+    border-radius: 80%;
+    border: 2px solid #ccc;
+}
