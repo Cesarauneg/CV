@@ -34,10 +34,12 @@ h1 {
     font-size: 2em;
     margin-bottom: 10px;
 }
-
+.pes {
+    margin-top: 20px;
+}
 p {
     font-size: 1.2em;
-    margin: 5px 0;
+    margin: 5px;
 }
 
 .buttons {
