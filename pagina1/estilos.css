@@ -129,7 +129,6 @@ section {
 
 .text-section {
     flex: 1;
-    min-width: 300px;
 }
 
 .yo {
