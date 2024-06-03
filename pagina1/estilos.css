@@ -100,7 +100,7 @@ section {
 .card:hover {
     transform: scale(1.05);
     color: white;
-    background-color: rgba(82, 164, 255, 0.87);
+    background-color: rgba(82, 164, 255, 0.81);
 }
 
 .card img {
@@ -119,7 +119,7 @@ section {
 }
 
 .card p {
-    color: #555;
+    color: #282828;
 }
 .more-projects {
     margin-top: 20px;
